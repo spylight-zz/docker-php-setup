@@ -32,8 +32,9 @@ My setup are using Ubuntu 24.04 and installed :
 4. Run `docker-compose up -d`, see docker-compose.yml settings
 5. Done, but if you want to access the terminal console, run with this command `docker exec -it docker-php-setup_php_1 bash`
 
-All is ok, you can check your browser and open http://localhost:5000 you will see your web server 
-to navigate database you can open http://localhost:5050 with the login username : root and password : toor
+All is ok, you can check your browser and open http://localhost:1212 you will see your web server 
+to navigate database you can open http://localhost:2121 with the login username : root and password : toor
+default database are my_db
 
 to add/edit your PHP file/project you can navigate on folder `myapplication`
 
